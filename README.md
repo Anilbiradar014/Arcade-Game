@@ -4,7 +4,7 @@
 
 * How to Run the game :
 
-Open Project3 folder and run _index.html_ on Chrome browser(recomended).
+Open Arcade Game folder and run _index.html_ on Chrome browser(recomended).
 
 * Instructions to play Classic Arcade Game:
  
